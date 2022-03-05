@@ -1,0 +1,2 @@
+﻿[Failure] Could not find file 'C:\Users\Spravca\Desktop\kokotina\Assets\scripts\PlayerController.cs'.
+[Failure] Could not find file 'C:\Users\Spravca\Desktop\kokotina\Assets\scripts\Player Controller.cs'.
